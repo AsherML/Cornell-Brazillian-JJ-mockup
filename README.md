@@ -1,2 +1,2 @@
 # Cornell-Brazillian-JJ-mockup
-Example of the club site made by my team, hasn't been adopted yet
+This is the club website that I and my team designed and created. It hasn't been adopted yet.
