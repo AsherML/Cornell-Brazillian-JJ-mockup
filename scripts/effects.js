@@ -2,7 +2,7 @@ $(document).ready(function () {
     //credit alert
     title=$('title').text();
     if (title=="Cornell Brazilian Jiu-Jitsu Club"){
-    alert("I completed this project as part of a team of 4 students. My responsibilities included the 'Calendar' page, the 'Jiu-Jitsu Basics page', the navigation and footer bars, and overall site responsiveness. Thank you.");
+        alert("I completed this project as part of a team of 4 students. My responsibilities included the 'Calendar' page, the 'Jiu-Jitsu Basics page', the navigation and footer bars, and overall site responsiveness. Thank you.");
     }
 
     //navigation responsiveness//
